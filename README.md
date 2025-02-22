@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-👋 Hello there! Welcome to my GitHub profile!<br>I'm Shajedul Islam Chowdhury, a passionate developer who loves to solve problems and create fun projects. 🚀<br><br>🌟 About Me:<br>🎯 Interests: Backend Development, Machine Learning<br>🌱 Currently Learning: Data Structures and Algorithms
+👋 Hello there! Welcome to my GitHub profile!<br>I'm Shajedul Islam Chowdhury, a passionate developer who loves to solve problems and create fun projects. 🚀<br><br>🌟 About Me:<br>🎯 Interests: Backend Development, Embedded Programming, Low Level Programming<br>🌱 Currently Learning: Data Structures and Algorithms
 
 ## 🌐 Socials:
 
@@ -8,7 +8,7 @@
 
 # 💻 Tech Stack:
 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white) ![SvelteKit](https://img.shields.io/badge/sveltekit-%23ff3e00.svg?style=for-the-badge&logo=svelte&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 # 📊 GitHub Stats:
 
